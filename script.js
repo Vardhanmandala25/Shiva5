@@ -5,84 +5,84 @@ const products = [
         name: "Antique Brass Vishnu Idol", 
         price: 14500, 
         category: "Vishnu & Avatars", 
-        image: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2020/07/21/16/48/lord-vishnu-5426640_640.jpg" 
     },
     { 
         id: 2, 
         name: "Vintage Krishna with Flute Idol", 
         price: 11500, 
         category: "Vishnu & Avatars", 
-        image: "https://images.unsplash.com/photo-1591959482543-9cedfb6fd8cd?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2019/07/28/09/11/krishna-4368597_640.jpg" 
     },
     { 
         id: 3, 
         name: "Balaji Temple Idol", 
         price: 18000, 
         category: "Vishnu & Avatars", 
-        image: "https://images.unsplash.com/photo-1580465446361-8aae5321522b?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2021/01/09/09/39/balaji-5902199_640.jpg" 
     },
     { 
         id: 4, 
         name: "Classic Nataraja Statue", 
         price: 13200, 
         category: "Shiva Collection", 
-        image: "https://images.unsplash.com/photo-1571897413935-ecf71b5ad61f?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2017/03/03/15/42/shiva-2115108_640.jpg" 
     },
     { 
         id: 5, 
         name: "Antique Shiva Lingam Set", 
         price: 9800, 
         category: "Shiva Collection", 
-        image: "https://images.unsplash.com/photo-1599639957043-f3aa5c986398?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2020/02/03/11/07/shivling-4815842_640.jpg" 
     },
     { 
         id: 6, 
         name: "Meditating Shiva Idol", 
         price: 10500, 
         category: "Shiva Collection", 
-        image: "https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2019/12/13/16/23/shiva-4693945_640.jpg" 
     },
     { 
         id: 7, 
         name: "Vintage Sitting Ganesha", 
         price: 7500, 
         category: "Ganesha Idols", 
-        image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2016/10/15/12/01/ganesha-1742478_640.jpg" 
     },
     { 
         id: 8, 
         name: "Dancing Ganesha Idol", 
         price: 8200, 
         category: "Ganesha Idols", 
-        image: "https://images.unsplash.com/photo-1626340975171-4e101ebbea95?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2018/09/13/22/03/ganesh-3675958_640.jpg" 
     },
     { 
         id: 9, 
         name: "Panchaloha Mini Ganesha Set", 
         price: 6300, 
         category: "Ganesha Idols", 
-        image: "https://images.unsplash.com/photo-1596421133123-7c0a2b9b5d7c?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2020/01/13/10/49/ganesha-4762590_640.jpg" 
     },
     { 
         id: 10, 
         name: "Antique Lakshmi Idol", 
         price: 9900, 
         category: "Devi / Goddesses", 
-        image: "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2020/10/14/17/29/lakshmi-5655570_640.jpg" 
     },
     { 
         id: 11, 
         name: "Durga on Lion Statue", 
         price: 12800, 
         category: "Devi / Goddesses", 
-        image: "https://images.unsplash.com/photo-1528642474498-1af0c17fd8c3?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2019/10/06/10/03/durga-4529597_640.jpg" 
     },
     { 
         id: 12, 
         name: "Saraswati with Veena Idol", 
         price: 10200, 
         category: "Devi / Goddesses", 
-        image: "https://images.unsplash.com/photo-1599639958475-2972f16b0e66?w=500&h=500&fit=crop&q=80" 
+        image: "https://cdn.pixabay.com/photo/2020/01/29/08/54/saraswati-4801877_640.jpg" 
     }
 ];
 
